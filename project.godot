@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="party-up-client"
+run/main_scene="res://scenes/client.tscn"
 config/icon="res://icon.png"
 
 [gui]
